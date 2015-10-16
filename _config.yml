@@ -1,0 +1,17 @@
+# Site settings
+title: United Code Unlimited
+header-img: img/home-bg.jpg
+email: unitedcodeunlimited@gmail.com
+description: "Page for Flix2You Project"
+baseurl: ""
+url: "http://unitedcodeunlimited.github.io"
+twitter_username: FilipKuzmanov
+github_username:  unitedcodeunlimited
+facebook_username:  
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
