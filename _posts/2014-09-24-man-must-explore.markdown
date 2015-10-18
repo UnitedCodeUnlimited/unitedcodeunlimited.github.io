@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
+title:      "Harnessing Data Properly"
+subtitle:   "Using new tools to get better use of your old data"
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "United Code Unlimited"
 header-img: "img/post-bg-06.jpg"
 ---
 
