@@ -28,5 +28,4 @@ header-img: "img/ubuntu_spread.jpg"
 <h2 class="section-heading">PHP</h2>
 
 <p>PHP is a server-side scripting language designed for web development. The scripting role can also be filled with Python or Perl. Servers such as Gunicorn or uWSGI can be used in conjunction with Nginx to serve these applications.</p>
-</section>
 
